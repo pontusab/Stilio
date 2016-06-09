@@ -1,0 +1,31 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "globals": {
+    "NODE_ENV": true,
+  },
+  "rules": {
+    "camelcase": 0,
+    "no-underscore-dangle": 0,
+    "global-require": 0,
+    "newline-per-chained-call": 0,
+    "no-console": 0,
+    "no-restricted-globals": ["error", "Map"],
+    "no-alert": 0,
+    "no-confusing-arrow": 0,
+    "indent": [
+      2,
+      2
+    ]
+  },
+  "settings": {
+    "import/resolver": {
+      "webpack": { "config": "webpack.config.prod.js" }
+    }
+  },
+  "env": {
+    "es6": true,
+    "node": true,
+    "browser": true
+  },
+}
