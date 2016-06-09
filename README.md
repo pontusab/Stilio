@@ -1,4 +1,4 @@
-![Stilio](/banner.jpg)
+![Stilio](https://rawgit.com/pontusab/Stilio/master/banner.jpg)
 
 <br />
 
