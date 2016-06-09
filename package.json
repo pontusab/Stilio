@@ -1,7 +1,7 @@
 {
   "name": "Stilio",
   "version": "0.0.1",
-  "description": "Stilio",
+  "description": "Stilio - Non universal React boilerplate",
   "main": "dev-server.js",
   "private": "true",
   "scripts": {
