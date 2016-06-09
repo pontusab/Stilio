@@ -2,7 +2,7 @@
 
 # Stilio
 
-[Dependencies](https://david-dm.org/pontusab/stilio.svg)
+![Dependencies](https://david-dm.org/pontusab/stilio.svg)
 
 ## Requirements
 `Node >= 5.0`
