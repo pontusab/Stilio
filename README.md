@@ -1,3 +1,5 @@
+![Stilio](/banner.jpg)
+
 # Stilio
 
 ## Requirements
