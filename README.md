@@ -2,6 +2,8 @@
 
 # Stilio
 
+[Dependencies](https://david-dm.org/pontusab/stilio.svg)
+
 ## Requirements
 `Node >= 5.0`
 That is it!
