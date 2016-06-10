@@ -30,7 +30,7 @@ That is it!
 - `npm run dev` - Will start the dev-server.
 
 
-Demo
+In the wild
 ======
 
 [Product Library](http://izettle.bubba.cc)
