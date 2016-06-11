@@ -2,7 +2,7 @@
 
 <br />
 
-<div align="center">A boilerplate made for..</div>
+<div align="center">Stilio is a React boilerplate focusing on get shit done, fast.</div>
 <br />
 <div align="center">
   <a href="https://david-dm.org/pontusab/stilio">
@@ -33,4 +33,4 @@ That is it!
 In the wild
 ======
 
-[Product Library](http://izettle.bubba.cc)
+Product Library - [Demo](http://izettle.bubba.cc), [Github](Stilio-example).
