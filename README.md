@@ -33,5 +33,5 @@ That is it!
 In the wild
 ======
 
-Product Library - [Demo](http://izettle.bubba.cc), [Github](https://github.com/pontusab/Stilio-example).
+Product Library - [Demo](http://izettle.bubba.cc), [Github](https://github.com/pontusab/Stilio-example). <br />
 Bubba - [Live](https://bubba.cc).
